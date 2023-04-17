@@ -1,0 +1,31 @@
+Harry Potter
+Rowling
+3
+Catcher in the rye
+Jerome
+1
+Gone With the Wind
+Mitchell
+2
+Leo Tolstoy 
+War and Peace
+5
+Erich Maria Remarque
+Three Comrades
+4
+Jerome D. Salinger
+Catcher in the Rye
+20
+Margaret Mitchell 
+Gone with the Wind
+15
+Gabriel Garcia Marquez
+One Hundred Years of Solitude
+10
+Francis Scott Fitzgerald
+The Great Gatsby
+10
+Joseph Heller
+Catch
+1
+
